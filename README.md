@@ -3,4 +3,5 @@ added a new line
 dazzling feature
 new branch edit
 stashing change master
+change Made as collabrator
 
